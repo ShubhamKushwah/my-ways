@@ -1,0 +1,29 @@
+body,
+html {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+  background: #323232;
+}
+
+body * {
+  box-sizing: border-box;
+}
+
+.flex {
+  display: flex;
+}
+
+.root {
+  padding: 16px !important;
+  width: 100% !important;
+
+  .paper {
+    padding: 16px !important;
+  }
+}
+
+ul {
+  padding-left: 24px;
+  list-style-type: decimal;
+}
