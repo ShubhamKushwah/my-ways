@@ -2,7 +2,6 @@
   "name": "my-ways",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://shubhamkushwahsk.github.io/my-ways",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
